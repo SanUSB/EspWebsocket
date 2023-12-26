@@ -4,7 +4,7 @@
 #include <ArduinoJson.h>
 
 const char* ssid     = "SanUSB";         // The SSID (name) of the Wi-Fi network you want to connect 2.4ghz!
-const char* password = "silveira19";     // The password of the Wi-Fi network
+const char* password = "**********";     // The password of the Wi-Fi network
 #define ledPin 2
 
 #include <WebSocketsClient.h>
