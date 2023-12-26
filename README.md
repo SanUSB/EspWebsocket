@@ -7,5 +7,5 @@ Arduino IDE -> Sketch -> Include Library -> Add .zip Library.
 - open terminal(shell),  Enter in the server folder,  and:
 - Run `npm install`
 - Run `node app.js`
-- Open webbrowser with localhost:4200 or 3000 check output
+- Open webbrowser with localhost: 4200 or 3000 check output
 - Follow detail tutorial in https://sanusb.blogspot.com/2023/12/websockets-embarcados.html
