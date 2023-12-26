@@ -1,6 +1,6 @@
 Guideline
 ## How to run this
-- Install the .zip libraries https://github.com/SanUSB/AsyncIOT to Arduino IDE, follow the steps: 
+- Install the .zip libraries (https://github.com/SanUSB/EspWebsocket/blob/main/socket.io-client-master.zip and https://github.com/SanUSB/EspWebsocket/blob/main/arduinoWebSockets-master.zip) to Arduino IDE, follow the steps: 
 Arduino IDE -> Sketch -> Include Library -> Add .zip Library.
 - Upload the client sketch .ino into ESP microcontroller
 
